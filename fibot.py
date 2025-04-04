@@ -18,13 +18,13 @@ STATE = {
     "PLANNED": None,
 }
 
-USER_ID_1 = 1234567890 # Add your telegram user ID #1 here
+USER_ID_1 = 7776960236 # Add your telegram user ID #1 here
 USER_ID_2 = 1234567891 # Add your telegram user ID #2 here
 
-USER_NAME_1 = "ABC" # Your name #1 (any string)
+USER_NAME_1 = "Lord" # Your name #1 (any string)
 USER_NAME_2 = "DEF" # Your name #2 (any string)
 
-TOKEN = 'add your telegram bot token here'
+TOKEN = '7921341221:AAHdJY3CiswKWYx7mNiua4tgj2BLaS8i_ps'
 
 def reset_state(option=True, main_category=True, category=True, amount=True, user=True, balance=True, limit=True, transaction=True, category_id=True):
     if option:
